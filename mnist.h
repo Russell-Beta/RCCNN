@@ -20,7 +20,6 @@ https://github.com/takafumihoriuchi/MNIST_for_C
 #define NUM_TEST 10000
 #define LEN_INFO_IMAGE 4
 #define LEN_INFO_LABEL 2
-#define TESTMAC 1
 #define MAX_IMAGESIZE 1280
 #define MAX_BRIGHTNESS 255
 #define MAX_FILENAME 256
