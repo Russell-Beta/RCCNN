@@ -131,6 +131,7 @@ void print_mnist_pixel(double data_image[][SIZE], int num_data)
             if ((j+1) % 28 == 0) putchar('\n');
         }
         putchar('\n');
+        
     }
 }
 
